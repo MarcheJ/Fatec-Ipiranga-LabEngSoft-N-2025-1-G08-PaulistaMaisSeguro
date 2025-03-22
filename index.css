@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Adicione aqui o seu CSS personalizado */
+@import './components/Header.css';
+@import './components/Footer.css';
+@import './components/Cadastro.css';
+@import './components/Login.css';
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+html, body {
+    height: 100%;
+    overflow: hidden; 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+#root {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}

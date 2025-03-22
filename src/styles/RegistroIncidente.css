@@ -1,0 +1,605 @@
+.fundo {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #f3eee6;
+}
+.retangulorodape {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #515457;
+    width: 1316px;
+    height: 180px;
+}
+.ajuda {
+    position: absolute;
+    height: 13.89%;
+    width: 4.79%;
+    top: 18.33%;
+    left: 2.51%;
+    display: inline-block;
+}
+.configuracoesprivacidade {
+    position: absolute;
+    height: 15%;
+    width: 21.88%;
+    top: 55%;
+    left: 2.51%;
+    display: inline-block;
+}
+.politicacookies {
+    position: absolute;
+    height: 15%;
+    width: 13.75%;
+    top: 36.11%;
+    left: 2.13%;
+    display: inline-block;
+}
+.politicaprivacidade {
+    position: absolute;
+    height: 15%;
+    width: 16.26%;
+    top: 55%;
+    left: 29.56%;
+    display: inline-block;
+}
+.politicaprivacidade1 {
+    position: absolute;
+    height: 13.89%;
+    width: 16.26%;
+    top: 18.33%;
+    left: 27.81%;
+    display: inline-block;
+}
+.politicaprivacidade2 {
+    position: absolute;
+    height: 13.89%;
+    width: 13.83%;
+    top: 36.11%;
+    left: 29.26%;
+    display: inline-block;
+}
+.rodapepagina {
+    position: absolute;
+    top: 892px;
+    left: 0px;
+    width: 1316px;
+    height: 180px;
+}
+.mapacidade-icon {
+    position: absolute;
+    top: 81px;
+    left: 0px;
+    width: 1316px;
+    height: 811px;
+    object-fit: cover;
+}
+.fundocabecalho {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #f2f0ef;
+}
+.fundobotaoacesso {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 15px;
+    background-color: #5e5b5b;
+}
+.acessar {
+    position: absolute;
+    height: 70.33%;
+    width: 95.36%;
+    top: 23.51%;
+    left: 2%;
+    display: inline-block;
+}
+.botaoacessar {
+    position: absolute;
+    height: 37.04%;
+    width: 8.36%;
+    top: 30.86%;
+    right: 4.88%;
+    bottom: 32.1%;
+    left: 86.76%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 12px;
+    color: #fff;
+}
+.home {
+    position: absolute;
+    height: 33.33%;
+    width: 5.01%;
+    top: 34.57%;
+    left: 5.93%;
+    display: inline-block;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.mapa-oficial-ssp {
+    position: absolute;
+    height: 33.33%;
+    width: 10.64%;
+    top: 35.8%;
+    left: 24.01%;
+    display: inline-block;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.botaoquemsomos {
+    position: absolute;
+    height: 33.33%;
+    width: 12.84%;
+    top: 34.57%;
+    left: 62.22%;
+    display: inline-block;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+.linhabotao {
+    position: absolute;
+    height: 1.23%;
+    width: 13.37%;
+    top: 68.96%;
+    right: 24.59%;
+    bottom: 29.81%;
+    left: 62.03%;
+    border-top: 1px solid #000;
+    box-sizing: border-box;
+}
+.logocabecalho-icon {
+    position: absolute;
+    top: calc(50% - 38.5px);
+    left: calc(50% - 35.15px);
+    width: 70px;
+    height: 78px;
+    object-fit: cover;
+}
+.cabecalho {
+    position: absolute;
+    height: 7.56%;
+    width: 100.02%;
+    top: 0%;
+    right: -0.02%;
+    bottom: 92.44%;
+    left: 0%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 15px;
+    color: #1e1e1e;
+}
+.fundocamposcadastro {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    background-color: #fff;
+}
+.tituloregistrar {
+    position: absolute;
+    height: 3.65%;
+    top: 1.96%;
+    left: calc(50% - 226.5px);
+    display: inline-block;
+    width: 453px;
+}
+.campoboletimocorrencia {
+    position: absolute;
+    height: 53.87%;
+    width: 100%;
+    top: 46.13%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+.iconeboletimocorrencia {
+    position: absolute;
+    top: 28.97px;
+    left: 12px;
+    width: 15px;
+    height: 21.3px;
+    object-fit: cover;
+}
+.tituloboletimocorrencia {
+    position: absolute;
+    height: 42.44%;
+    width: 55.89%;
+    top: 0%;
+    left: 7.39%;
+    background: linear-gradient(#000, #000), linear-gradient(#000, #000), #000;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+}
+.containertextonnumeroboinciden {
+    position: absolute;
+    top: 26px;
+    left: 31px;
+    background-color: #fff;
+    width: 382px;
+    height: 27px;
+}
+.separacaotipoincidente {
+    position: absolute;
+    top: 25.34px;
+    left: 30.12px;
+    border-right: 1px solid #000;
+    box-sizing: border-box;
+    width: 1px;
+    height: 29px;
+}
+.numerobo {
+    position: absolute;
+    height: 10.58%;
+    width: 99.08%;
+    top: 89.42%;
+    right: 0.92%;
+    bottom: 0%;
+    left: 0%;
+}
+.campolocalizacao {
+    position: absolute;
+    height: 49.57%;
+    width: 100%;
+    top: 50.46%;
+    right: 0%;
+    bottom: -0.03%;
+    left: 0%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+.iconelocalizacao {
+    position: absolute;
+    top: 31.94px;
+    left: 10px;
+    width: 18px;
+    height: 25.5px;
+    object-fit: cover;
+}
+.titulolocalincidente {
+    position: absolute;
+    height: 35.9%;
+    width: 33.49%;
+    top: 0%;
+    left: 6.93%;
+    background: linear-gradient(#000, #000), linear-gradient(#000, #000), #000;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+}
+.containertextolocalincidente {
+    position: absolute;
+    top: 31px;
+    left: 30px;
+    background-color: #fff;
+    width: 381px;
+    height: 26px;
+}
+.separacaotipoincidente1 {
+    position: absolute;
+    top: 30.34px;
+    left: 29.12px;
+    border-right: 1px solid #000;
+    box-sizing: border-box;
+    width: 1px;
+    height: 28px;
+}
+.localincidente {
+    position: absolute;
+    height: 11.42%;
+    width: 99.08%;
+    top: 74.97%;
+    right: 0.46%;
+    bottom: 13.61%;
+    left: 0.46%;
+}
+.campohora {
+    position: absolute;
+    height: 50%;
+    width: 100%;
+    top: 50.05%;
+    right: 0%;
+    bottom: -0.05%;
+    left: 0%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+.iconerelogio {
+    position: absolute;
+    top: 34.12px;
+    left: 7px;
+    width: 22px;
+    height: 18.9px;
+    object-fit: cover;
+}
+.titulohoraincidente {
+    position: absolute;
+    height: 34.25%;
+    width: 34.64%;
+    top: 0%;
+    left: 6.93%;
+    background: linear-gradient(#000, #000), linear-gradient(#000, #000), #000;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+}
+.containertextohoraincidente {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    background-color: #fff;
+    width: 381px;
+    height: 27px;
+}
+.horaincidente {
+    position: absolute;
+    height: 11.4%;
+    width: 99.08%;
+    top: 60.33%;
+    right: 0.46%;
+    bottom: 28.27%;
+    left: 0.46%;
+}
+.campodata {
+    position: absolute;
+    height: 50.09%;
+    width: 100%;
+    top: 49.86%;
+    right: 0%;
+    bottom: 0.06%;
+    left: 0%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+.iconedataincidente {
+    position: absolute;
+    top: 33.69px;
+    left: 7px;
+    width: 22px;
+    height: 18.9px;
+    object-fit: cover;
+}
+.titulodataincidente {
+    position: absolute;
+    height: 34.31%;
+    width: 32.33%;
+    top: 0%;
+    left: 6.93%;
+    background: linear-gradient(#000, #000), linear-gradient(#000, #000), #000;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+}
+.dataincidente {
+    position: absolute;
+    height: 11.38%;
+    width: 99.08%;
+    top: 45.88%;
+    right: 0.46%;
+    bottom: 42.74%;
+    left: 0.46%;
+}
+.campodescricao {
+    position: absolute;
+    height: 81.13%;
+    width: 100%;
+    top: 18.87%;
+    right: 0%;
+    bottom: -0.01%;
+    left: 0%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+.containertextodescricaoinciden {
+    position: absolute;
+    top: 31px;
+    left: 37px;
+    background-color: #fff;
+    width: 388px;
+    height: 120px;
+}
+.iconedescricaoincidente {
+    position: absolute;
+    top: 31.23px;
+    left: 7px;
+    width: 22px;
+    height: 23.4px;
+    object-fit: cover;
+}
+.titulodescricaoincidente {
+    position: absolute;
+    height: 13.01%;
+    width: 41.34%;
+    top: 0%;
+    left: 6.93%;
+    background: linear-gradient(#000, #000), linear-gradient(#000, #000), #000;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+}
+.separacaodescricaohorizontal {
+    position: absolute;
+    top: 57.66px;
+    left: 1.99px;
+    border-top: 1px solid #000;
+    box-sizing: border-box;
+    width: 29px;
+    height: 1px;
+}
+.descricaolincidente {
+    position: absolute;
+    height: 30.01%;
+    width: 99.08%;
+    top: 13.86%;
+    right: 0.46%;
+    bottom: 56.13%;
+    left: 0.46%;
+}
+.campotipoincidente {
+    position: absolute;
+    height: 50%;
+    width: 100%;
+    top: 50.03%;
+    right: 0%;
+    bottom: -0.03%;
+    left: 0%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+.titulotipoincidente {
+    position: absolute;
+    height: 34.25%;
+    width: 31.18%;
+    top: 0%;
+    left: 6.93%;
+    background: linear-gradient(#000, #000), linear-gradient(#000, #000), #000;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+}
+.botaoselecaotipo-icon {
+    position: absolute;
+    top: 37px;
+    left: 3.02px;
+    border-radius: 4px;
+    width: 21px;
+    height: 16px;
+    overflow: hidden;
+    object-fit: contain;
+    max-width: 1920px;
+}
+.containertextotipoincidente {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    background-color: #fff;
+    width: 393px;
+    height: 27px;
+}
+.tipoincidente {
+    position: absolute;
+    height: 11.4%;
+    width: 99.08%;
+    top: 0%;
+    right: 0%;
+    bottom: 88.6%;
+    left: 0.92%;
+}
+.camposincidente {
+    position: absolute;
+    height: 71.84%;
+    width: 83.56%;
+    top: 8.27%;
+    right: 8.6%;
+    bottom: 19.89%;
+    left: 7.84%;
+    text-align: left;
+    font-size: 15px;
+}
+.fundobotaoregistrar {
+    position: absolute;
+    height: 99.29%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0.71%;
+    left: 0%;
+    border-radius: 15px;
+    background-color: #5e5b5b;
+}
+.registrarincidente {
+    position: absolute;
+    height: 74.82%;
+    width: 95.35%;
+    top: 25.02%;
+    left: 2%;
+    display: inline-block;
+}
+.botaoregistrar {
+    position: absolute;
+    height: 3.96%;
+    width: 35.37%;
+    top: 92.99%;
+    right: 32.31%;
+    bottom: 3.06%;
+    left: 32.31%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 12px;
+    color: #fff;
+}
+.lembre-se-o-registro {
+    margin: 0;
+}
+.polcia-militar1 {
+    text-decoration: underline;
+}
+.polcia-militar {
+    color: inherit;
+}
+.lembreteregistro {
+    position: absolute;
+    height: 8.42%;
+    top: 82.75%;
+    left: calc(50% - 90.5px);
+    font-size: 10px;
+    color: #ff0000;
+    display: inline-block;
+    width: 181px;
+}
+.containerregistro {
+    position: absolute;
+    height: 66.51%;
+    width: 39.74%;
+    top: 11.66%;
+    right: 30.09%;
+    bottom: 21.83%;
+    left: 30.17%;
+    font-size: 24px;
+    color: #000;
+}
+.registroincidente {
+    width: 100%;
+    position: relative;
+    height: 1072px;
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+    font-family: Poppins;
+}
+

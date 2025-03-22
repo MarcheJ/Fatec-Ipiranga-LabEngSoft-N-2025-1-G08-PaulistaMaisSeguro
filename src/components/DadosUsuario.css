@@ -1,0 +1,214 @@
+.fundo {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #f3eee6;
+}
+.fundocamposedicaoapagar {
+    position: absolute;
+    height: 36.86%;
+    top: 11.5%;
+    bottom: 31.64%;
+    left: calc(50% - 300px);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    background-color: #fff;
+    width: 590px;
+}
+.camponovasenha {
+    position: absolute;
+    height: 60.7%;
+    width: 99.61%;
+    top: 39.35%;
+    right: 0.01%;
+    bottom: -0.05%;
+    left: 0.39%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+.titulonovsenha {
+    position: absolute;
+    height: 25.35%;
+    width: 32.29%;
+    top: 0%;
+    left: 0%;
+    display: flex;
+    align-items: center;
+}
+.containernovasenhausuario {
+    position: absolute;
+    top: 30.22px;
+    left: 44.95px;
+    background-color: #fff;
+    width: 369.5px;
+    height: 39.2px;
+}
+.logosenha-icon {
+    position: absolute;
+    height: 40.99%;
+    width: 6.02%;
+    top: 51.2%;
+    right: 90%;
+    bottom: 7.81%;
+    left: 3.98%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.novasenha {
+    position: absolute;
+    height: 7.85%;
+    width: 32.95%;
+    top: 19.82%;
+    right: 33.69%;
+    bottom: 52.32%;
+    left: 33.36%;
+    text-align: left;
+}
+.fundobotaovisualizarregistros {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 15px;
+    background-color: #515457;
+}
+.botaovisualizarregistros1 {
+    position: absolute;
+    top: calc(50% - 15.5px);
+    left: calc(50% - 80.5px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 162px;
+    height: 31px;
+}
+.botaovisualizarregistros {
+    position: absolute;
+    height: 3.87%;
+    width: 13.75%;
+    top: 40.84%;
+    right: 43.09%;
+    bottom: 35.29%;
+    left: 43.16%;
+    font-size: 15px;
+    color: #fff;
+}
+.titulopagina {
+    position: absolute;
+    height: 3.65%;
+    top: 14.27%;
+    left: calc(50% - 165px);
+    font-size: 36px;
+    color: #5e5b5b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 330px;
+}
+.logoemailexibicao-icon {
+    position: absolute;
+    height: 35.07%;
+    width: 6.02%;
+    top: 52.17%;
+    right: 90.03%;
+    bottom: 12.76%;
+    left: 3.95%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.tituloemailusuarioexibicao {
+    position: absolute;
+    height: 25.63%;
+    width: 26.87%;
+    top: 0%;
+    left: 0%;
+    display: flex;
+    align-items: center;
+}
+.emailusuarioexibicao {
+    position: absolute;
+    height: 7.85%;
+    width: 32.95%;
+    top: 19.58%;
+    right: 33.54%;
+    bottom: 72.57%;
+    left: 33.51%;
+    text-align: left;
+}
+.senhalogado {
+    position: absolute;
+    height: 7.85%;
+    width: 32.95%;
+    top: 29.09%;
+    right: 33.54%;
+    bottom: 63.05%;
+    left: 33.51%;
+    text-align: left;
+}
+.botaoalterarsenha {
+    position: absolute;
+    height: 3.89%;
+    width: 10.75%;
+    top: 33.54%;
+    right: 55.97%;
+    bottom: 42.57%;
+    left: 33.28%;
+    font-size: 15px;
+    color: #fff;
+}
+.fundobotaofazerlogout {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 15px;
+    background-color: #e91313;
+}
+.botaofazerlogout {
+    position: absolute;
+    top: calc(50% - 9.14px);
+    left: calc(50% - 53.21px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 106.5px;
+    height: 18.2px;
+}
+.botaologout {
+    position: absolute;
+    height: 3.89%;
+    width: 10.75%;
+    top: 33.54%;
+    right: 33.85%;
+    bottom: 42.57%;
+    left: 55.4%;
+    font-size: 15px;
+    color: #fff;
+}
+.telaacessarlogado {
+    width: 100%;
+    position: relative;
+    height: 904px;
+    text-align: center;
+    font-size: 20px;
+    color: #000;
+    font-family: Poppins;
+}
+

@@ -1,0 +1,576 @@
+.fundo {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #f3eee6;
+}
+.fundocamposcadastro {
+    position: absolute;
+    height: 70%;
+    width: 94.76%;
+    top: 6.93%;
+    right: 2.74%;
+    bottom: 15.41%;
+    left: 2.51%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+}
+.fundobotaoeditar {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 15px;
+    background-color: #8f959b;
+}
+.editar {
+    position: absolute;
+    height: 70.33%;
+    width: 95.36%;
+    top: 15%;
+    left: 2%;
+    display: inline-block;
+}
+.botaoeditar {
+    position: absolute;
+    height: 3.63%;
+    width: 8%;
+    top: 85%;
+    right: 90.25%;
+    bottom: 0%;
+    left: 0%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+}
+.fundobotaoapagar {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 15px;
+    background-color: #d44547;
+}
+.botaoapagar {
+    position: absolute;
+    height: 3.63%;
+    width: 8%;
+    top: 85%;
+    right: 45.12%;
+    bottom: 0%;
+    left: 45.12%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+}
+.fundobotaodetalhes {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 15px;
+    background-color: #7b848e;
+}
+.botaodetalhes {
+    position: absolute;
+    height: 3.63%;
+    width: 8%;
+    top: 85%;
+    right: 0%;
+    bottom: 0%;
+    left: 90.25%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+}
+.linhaoito {
+    position: absolute;
+    height: 11.07%;
+    width: 100%;
+    top: 88.77%;
+    right: 0%;
+    bottom: 0.15%;
+    left: 0%;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+.linhasete {
+    position: absolute;
+    height: 11.07%;
+    width: 100%;
+    top: 77.7%;
+    right: 0%;
+    bottom: 11.23%;
+    left: 0%;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+.linhaseis {
+    position: absolute;
+    height: 11.07%;
+    width: 100%;
+    top: 66.62%;
+    right: 0%;
+    bottom: 22.3%;
+    left: 0%;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+.linhacinco {
+    position: absolute;
+    height: 11.07%;
+    width: 100%;
+    top: 55.55%;
+    right: 0%;
+    bottom: 33.38%;
+    left: 0%;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+.linhaquatro {
+    position: absolute;
+    height: 11.07%;
+    width: 100%;
+    top: 44.47%;
+    right: 0%;
+    bottom: 44.45%;
+    left: 0%;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+.linhatres {
+    position: absolute;
+    height: 11.07%;
+    width: 100%;
+    top: 33.4%;
+    right: 0%;
+    bottom: 55.53%;
+    left: 0%;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+.linhadois {
+    position: absolute;
+    height: 11.07%;
+    width: 100%;
+    top: 22.33%;
+    right: 0%;
+    bottom: 66.6%;
+    left: 0%;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+.linhaum {
+    position: absolute;
+    height: 11.07%;
+    width: 100%;
+    top: 11.25%;
+    right: 0%;
+    bottom: 77.67%;
+    left: 0%;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+.cabecalhotabela {
+    position: absolute;
+    height: 11.07%;
+    width: 100%;
+    top: 0.18%;
+    right: 0%;
+    bottom: 88.75%;
+    left: 0%;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+.tipoincidente {
+    position: absolute;
+    height: 8.75%;
+    width: 89.38%;
+    top: 1.25%;
+    left: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.separacaoum {
+    position: absolute;
+    top: 0px;
+    left: 160px;
+    border-right: 1px solid #000;
+    box-sizing: border-box;
+    width: 1px;
+    height: 641px;
+}
+.colunatipo {
+    position: absolute;
+    height: 99.83%;
+    width: 14.18%;
+    top: 0.02%;
+    right: 75.18%;
+    bottom: 0.15%;
+    left: 10.64%;
+}
+.descricaoincidente {
+    position: absolute;
+    height: 8.75%;
+    width: 69%;
+    top: 1.25%;
+    left: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.separacaodois {
+    position: absolute;
+    top: 0px;
+    left: 300px;
+    border-right: 1px solid #000;
+    box-sizing: border-box;
+    width: 1px;
+    height: 641px;
+}
+.colunadescricao {
+    position: absolute;
+    height: 99.83%;
+    width: 26.6%;
+    top: 0.02%;
+    right: 47.87%;
+    bottom: 0.15%;
+    left: 25.53%;
+}
+.dataincidente {
+    position: absolute;
+    height: 8.75%;
+    width: 83.66%;
+    top: 1.26%;
+    left: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.separacaotres {
+    position: absolute;
+    top: 0px;
+    left: 180.5px;
+    border-right: 1px solid #000;
+    box-sizing: border-box;
+    width: 1px;
+    height: 641.1px;
+}
+.colunadata {
+    position: absolute;
+    height: 99.84%;
+    width: 16%;
+    top: 0.01%;
+    right: 31.34%;
+    bottom: 0.14%;
+    left: 52.66%;
+}
+.localincidente {
+    position: absolute;
+    height: 8.75%;
+    width: 78.82%;
+    top: 1.27%;
+    left: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.separacaoquatro {
+    position: absolute;
+    top: 0px;
+    left: 85px;
+    border-right: 1px solid #000;
+    box-sizing: border-box;
+    width: 1px;
+    height: 641.3px;
+}
+.colunalocal {
+    position: absolute;
+    height: 99.88%;
+    width: 7.54%;
+    top: 0%;
+    right: 22.7%;
+    bottom: 0.12%;
+    left: 69.77%;
+}
+.numerobo {
+    position: absolute;
+    height: 8.75%;
+    width: 81.53%;
+    top: 1.26%;
+    left: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.separacaocinco {
+    position: absolute;
+    top: 0px;
+    left: 143.5px;
+    border-right: 1px solid #000;
+    box-sizing: border-box;
+    width: 1px;
+    height: 641.1px;
+}
+.colunabo {
+    position: absolute;
+    height: 99.84%;
+    width: 12.72%;
+    top: 0.01%;
+    right: 9.18%;
+    bottom: 0.14%;
+    left: 78.1%;
+}
+.status {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.colunastatus {
+    position: absolute;
+    height: 8.73%;
+    width: 6.74%;
+    top: 1.27%;
+    right: 1.95%;
+    bottom: 90%;
+    left: 91.31%;
+}
+.acoes {
+    position: absolute;
+    height: 8.75%;
+    width: 90.43%;
+    top: 1.09%;
+    left: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.separacaoum1 {
+    position: absolute;
+    top: 0px;
+    left: 94px;
+    border-right: 1px solid #000;
+    box-sizing: border-box;
+    width: 1px;
+    height: 641px;
+}
+.colunaacoes {
+    position: absolute;
+    height: 99.83%;
+    width: 8.33%;
+    top: 0.18%;
+    right: 90.69%;
+    bottom: 0%;
+    left: 0.98%;
+}
+.tabelaincidentes {
+    position: absolute;
+    height: 77.52%;
+    width: 100%;
+    top: 11.11%;
+    right: 0%;
+    bottom: 11.37%;
+    left: 0%;
+    font-size: 20px;
+    color: #000;
+}
+.titulopagina {
+    position: absolute;
+    height: 6.53%;
+    width: 38.21%;
+    top: 0%;
+    left: 30.76%;
+    font-size: 36px;
+    color: #5e5b5b;
+    display: inline-block;
+}
+.containerlistagem {
+    position: absolute;
+    height: 70%;
+    width: 85.71%;
+    top: 9.25%;
+    right: 7.14%;
+    bottom: 19.95%;
+    left: 7.14%;
+}
+.retangulorodape {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #515457;
+    width: 100%;
+    height: 180px;
+}
+.ajuda {
+    position: absolute;
+    height: 13.89%;
+    width: 4.79%;
+    top: 18.33%;
+    left: 2.51%;
+    display: inline-block;
+}
+.configuracoesprivacidade {
+    position: absolute;
+    height: 15%;
+    width: 21.88%;
+    top: 55%;
+    left: 2.51%;
+    display: inline-block;
+}
+.politicacookies {
+    position: absolute;
+    height: 15%;
+    width: 13.75%;
+    top: 36.11%;
+    left: 2.13%;
+    display: inline-block;
+}
+.politicaprivacidade {
+    position: absolute;
+    height: 15%;
+    width: 16.26%;
+    top: 55%;
+    left: 29.56%;
+    display: inline-block;
+}
+.politicaprivacidade1 {
+    position: absolute;
+    height: 13.89%;
+    width: 16.26%;
+    top: 18.33%;
+    left: 27.81%;
+    display: inline-block;
+}
+.politicaprivacidade2 {
+    position: absolute;
+    height: 13.89%;
+    width: 13.83%;
+    top: 36.11%;
+    left: 29.26%;
+    display: inline-block;
+}
+.rodapepagina {
+    position: absolute;
+    top: 81.2%;
+    left: 0px;
+    width: 100%;
+    height: 180px;
+    font-size: 18px;
+}
+.fundocabecalho {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #f2f0ef;
+}
+.fundobotaoacesso {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 15px;
+    background-color: #5e5b5b;
+}
+.botaoacessar {
+    position: absolute;
+    height: 37.04%;
+    width: 8.36%;
+    top: 30.86%;
+    right: 4.88%;
+    bottom: 32.1%;
+    left: 86.76%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 12px;
+    color: #fff;
+    border-radius: 15px;
+}
+.home {
+    position: absolute;
+    height: 33.33%;
+    width: 5.01%;
+    top: 34.57%;
+    left: 5.93%;
+    display: inline-block;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.mapa-oficial-ssp {
+    position: absolute;
+    height: 33.33%;
+    width: 10.64%;
+    top: 35.8%;
+    left: 24.01%;
+    display: inline-block;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.botaoquemsomos {
+    position: absolute;
+    height: 33.33%;
+    width: 12.84%;
+    top: 34.57%;
+    left: 62.22%;
+    display: inline-block;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+.logocabecalho-icon {
+    position: absolute;
+    top: calc(50% - 38.5px);
+    left: calc(50% - 35.15px);
+    width: 70px;
+    height: 78px;
+    object-fit: cover;
+}
+.cabecalho {
+    position: absolute;
+    height: 6.93%;
+    width: 100.02%;
+    top: 0%;
+    right: -0.02%;
+    bottom: 93.07%;
+    left: 0%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 15px;
+    color: #1e1e1e;
+}
+.telaincidentes {
+    width: 100%;
+    position: relative;
+    height: 100vh; 
+    text-align: center;
+    font-size: 12px;
+    color: #fff;
+    font-family: Poppins;
+}
+

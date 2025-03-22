@@ -1,0 +1,724 @@
+.fundo {
+    position: absolute;
+    top: 0px;
+    left: -10px;
+    background-color: #f3eee6;
+    width: 1913px;
+    height: 800px;
+}
+
+.retangulorodape {
+    position: absolute;
+    top: 0px;
+    left: -8px;
+    background-color: #515457;
+    width: 1912px;
+    height: 180px;
+}
+
+.ajuda {
+    position: absolute;
+    top: 33px;
+    left: 36px;
+}
+
+.configuracoesprivacidade {
+    position: absolute;
+    top: 99px;
+    left: 37px;
+}
+
+.politicacookies {
+    position: absolute;
+    top: 65px;
+    left: 32px;
+}
+
+.politicaprivacidade {
+    position: absolute;
+    top: 99px;
+    left: 389px;
+}
+
+.politicaprivacidade1 {
+    position: absolute;
+    top: 33px;
+    left: 389px;
+}
+
+.politicaprivacidade2 {
+    position: absolute;
+    top: 65px;
+    left: 389px;
+}
+
+.rodapepagina {
+    position: absolute;
+    top: 768px;
+    left: 0px;
+    width: 1316px;
+    height: 180px;
+}
+
+.containermapacomunidade {
+    position: absolute;
+    top: 82px;
+    left: -10px;
+    background-color: #d9d9d9;
+    width: 1912px;
+    height: 700px;
+}
+
+.mapacidade-icon {
+    position: absolute;
+    top: 81px;
+    left: 0px;
+    width: 1316px;
+    height: 811px;
+    object-fit: cover;
+}
+
+.fundocabecalho {
+    position: absolute;
+    top: 0px;
+    left: -10px;
+    background-color: #f2f0ef;
+    width: 1912px;
+    height: 81px;
+}
+
+.fundobotaoacesso {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 15px;
+    background-color: #5e5b5b;
+    width: 110px;
+    height: 30px;
+}
+
+.acessar {
+    position: absolute;
+    top: 7.05px;
+    left: 29.2px;
+    border-radius: 15px;
+}
+
+.botaoacessar {
+    position: absolute;
+    top: 25px;
+    left: 1716px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 110px;
+    height: 30px;
+    font-size: 12px;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 15px;
+
+}
+
+.home {
+    position: absolute;
+    top: 28px;
+    left: 168px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+
+.mapa-oficial-ssp {
+    position: absolute;
+    top: 29px;
+    left: 562px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+
+.botaoMapaComunidade {
+    position: absolute;
+    top: 28px;
+    left: 1350px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+
+.linhabotao {
+    position: absolute;
+    top: 56.36px;
+    left: 70%;
+    border-top: 1px solid #000;
+    box-sizing: border-box;
+    width: 190px;
+    height: 1px;
+}
+
+.logocabecalho-icon {
+    position: absolute;
+    top: 2px;
+    left: 956px;
+    width: 70px;
+    height: 78px;
+    object-fit: cover;
+    cursor: pointer;
+
+}
+
+.cabecalho {
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 1912px;
+    height: 81px;
+    font-size: 15px;
+    color: #1e1e1e;
+}
+
+.fundobotaoRegistrarIncidente {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 15px;
+    background-color: #5e5b5b;
+    width: 110px;
+    height: 48px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.registrar-do {
+    margin: 0;
+}
+
+.registrar {
+    position: absolute;
+    top: 7px;
+    left: 25px;
+    cursor: pointer;
+
+}
+
+.botaoRegistrarIncidente {
+    position: absolute;
+    top: 700px;
+    left: 1650px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 110px;
+    height: 48px;
+    font-size: 12px;
+    border-radius: 15px;
+    cursor: pointer;
+
+
+}
+
+.containerpagina {
+    position: absolute;
+    top: -5px;
+    left: 0px;
+    width: 1800px;
+    height: 1072px;
+}
+
+.mapaoficial {
+    width: 100%;
+    position: relative;
+    height: 700px;
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+    font-family: Poppins;
+}
+
+.fundocamposcadastro {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    background-color: #fff;
+}
+
+.tituloregistrar {
+    position: absolute;
+    height: 3.65%;
+    top: 1.96%;
+    left: calc(50% - 226.5px);
+    display: inline-block;
+    width: 453px;
+}
+
+.sairx {
+    position: absolute;
+    height: 3.65%;
+    top: 0.14%;
+    left: calc(50% + 226.5px);
+    display: inline-block;
+    width: 30px;
+    cursor: pointer;
+}
+
+.campoboletimocorrencia {
+    position: absolute;
+    height: 53.87%;
+    width: 100%;
+    top: 46.13%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+
+.iconeboletimocorrencia {
+    position: absolute;
+    top: 28.97px;
+    left: 12px;
+    width: 15px;
+    height: 21.3px;
+    object-fit: cover;
+}
+
+.tituloboletimocorrencia {
+    position: absolute;
+    height: 42.44%;
+    width: 55.89%;
+    top: 0%;
+    left: 7.39%;
+    background: linear-gradient(#000, #000), linear-gradient(#000, #000), #000;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+}
+
+.containertextonnumeroboinciden {
+    position: absolute;
+    top: 26px;
+    left: 31px;
+    background-color: #fff;
+    width: 382px;
+    height: 27px;
+}
+
+.separacaotipoincidente {
+    position: absolute;
+    top: 25.34px;
+    left: 30.12px;
+    border-right: 1px solid #000;
+    box-sizing: border-box;
+    width: 1px;
+    height: 29px;
+}
+
+.numerobo {
+    position: absolute;
+    height: 10.58%;
+    width: 99.08%;
+    top: 89.42%;
+    right: 0.92%;
+    bottom: 0%;
+    left: 0%;
+}
+
+.campolocalizacao {
+    position: absolute;
+    height: 49.57%;
+    width: 100%;
+    top: 50.46%;
+    right: 0%;
+    bottom: -0.03%;
+    left: 0%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+
+.iconelocalizacao {
+    position: absolute;
+    top: 31.94px;
+    left: 10px;
+    width: 18px;
+    height: 25.5px;
+    object-fit: cover;
+}
+
+.titulolocalincidente {
+    position: absolute;
+    height: 35.9%;
+    width: 33.49%;
+    top: 0%;
+    left: 6.93%;
+    background: linear-gradient(#000, #000), linear-gradient(#000, #000), #000;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+}
+
+.containertextolocalincidente {
+    position: absolute;
+    top: 31px;
+    left: 30px;
+    background-color: #fff;
+    width: 381px;
+    height: 26px;
+}
+
+.separacaotipoincidente1 {
+    position: absolute;
+    top: 30.34px;
+    left: 29.12px;
+    border-right: 1px solid #000;
+    box-sizing: border-box;
+    width: 1px;
+    height: 28px;
+}
+
+.localincidente {
+    position: absolute;
+    height: 11.42%;
+    width: 99.08%;
+    top: 74.97%;
+    right: 0.46%;
+    bottom: 13.61%;
+    left: 0.46%;
+}
+
+.campohora {
+    position: absolute;
+    height: 50%;
+    width: 100%;
+    top: 50.05%;
+    right: 0%;
+    bottom: -0.05%;
+    left: 0%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+
+.iconerelogio {
+    position: absolute;
+    top: 34.12px;
+    left: 7px;
+    width: 22px;
+    height: 18.9px;
+    object-fit: cover;
+}
+
+.titulohoraincidente {
+    position: absolute;
+    height: 34.25%;
+    width: 34.64%;
+    top: 0%;
+    left: 6.93%;
+    background: linear-gradient(#000, #000), linear-gradient(#000, #000), #000;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+}
+
+.containertextohoraincidente {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    background-color: #fff;
+    width: 381px;
+    height: 27px;
+}
+
+.horaincidente {
+    position: absolute;
+    height: 11.4%;
+    width: 99.08%;
+    top: 60.33%;
+    right: 0.46%;
+    bottom: 28.27%;
+    left: 0.46%;
+}
+
+.campodata {
+    position: absolute;
+    height: 50.09%;
+    width: 100%;
+    top: 49.86%;
+    right: 0%;
+    bottom: 0.06%;
+    left: 0%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+
+.iconedataincidente {
+    position: absolute;
+    top: 33.69px;
+    left: 7px;
+    width: 22px;
+    height: 18.9px;
+    object-fit: cover;
+}
+
+.titulodataincidente {
+    position: absolute;
+    height: 34.31%;
+    width: 32.33%;
+    top: 0%;
+    left: 6.93%;
+    background: linear-gradient(#000, #000), linear-gradient(#000, #000), #000;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+}
+
+.dataincidente {
+    position: absolute;
+    height: 11.38%;
+    width: 99.08%;
+    top: 45.88%;
+    right: 0.46%;
+    bottom: 42.74%;
+    left: 0.46%;
+}
+
+.campodescricao {
+    position: absolute;
+    height: 81.13%;
+    width: 100%;
+    top: 18.87%;
+    right: 0%;
+    bottom: -0.01%;
+    left: 0%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+
+.containertextodescricaoinciden {
+    position: absolute;
+    top: 31px;
+    left: 37px;
+    background-color: #fff;
+    width: 388px;
+    height: 120px;
+}
+
+.iconedescricaoincidente {
+    position: absolute;
+    top: 31.23px;
+    left: 7px;
+    width: 22px;
+    height: 23.4px;
+    object-fit: cover;
+}
+
+.titulodescricaoincidente {
+    position: absolute;
+    height: 13.01%;
+    width: 41.34%;
+    top: 0%;
+    left: 6.93%;
+    background: linear-gradient(#000, #000), linear-gradient(#000, #000), #000;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+}
+
+.separacaodescricaohorizontal {
+    position: absolute;
+    top: 57.66px;
+    left: 1.99px;
+    border-top: 1px solid #000;
+    box-sizing: border-box;
+    width: 29px;
+    height: 1px;
+}
+
+.descricaolincidente {
+    position: absolute;
+    height: 30.01%;
+    width: 99.08%;
+    top: 13.86%;
+    right: 0.46%;
+    bottom: 56.13%;
+    left: 0.46%;
+}
+
+.campotipoincidente {
+    position: absolute;
+    height: 50%;
+    width: 100%;
+    top: 50.03%;
+    right: 0%;
+    bottom: -0.03%;
+    left: 0%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+
+.titulotipoincidente {
+    position: absolute;
+    height: 34.25%;
+    width: 31.18%;
+    top: 0%;
+    left: 6.93%;
+    background: linear-gradient(#000, #000), linear-gradient(#000, #000), #000;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+}
+
+.botaoselecaotipo-icon {
+    position: absolute;
+    top: 37px;
+    left: 3.02px;
+    border-radius: 4px;
+    width: 21px;
+    height: 16px;
+    overflow: hidden;
+    object-fit: contain;
+    max-width: 1920px;
+}
+
+.containertextotipoincidente {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    background-color: #fff;
+    width: 393px;
+    height: 27px;
+}
+
+.tipoincidente {
+    position: absolute;
+    height: 11.4%;
+    width: 99.08%;
+    top: 0%;
+    right: 0%;
+    bottom: 88.6%;
+    left: 0.92%;
+}
+
+.camposincidente {
+    position: absolute;
+    height: 71.84%;
+    width: 83.56%;
+    top: 8.27%;
+    right: 8.6%;
+    bottom: 19.89%;
+    left: 7.84%;
+    text-align: left;
+    font-size: 15px;
+}
+
+.fundobotaocancelar {
+    position: absolute;
+    height: 99.29%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0.71%;
+    left: 0%;
+    border-radius: 15px;
+    background-color: #5e5b5b;
+    cursor: pointer;
+}
+
+.cancelar {
+    position: absolute;
+    height: 74.82%;
+    width: 95.35%;
+    top: 25.02%;
+    left: 2%;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.botaocancelar {
+    position: absolute;
+    height: 3.96%;
+    width: 35.37%;
+    top: 92.99%;
+    right: 8.6%;
+    bottom: 3.06%;
+    left: 56.02%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 12px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.botaoregistrar {
+    position: absolute;
+    height: 3.96%;
+    width: 35.37%;
+    top: 92.99%;
+    right: 52.96%;
+    bottom: 3.06%;
+    left: 11.66%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 12px;
+    color: #fff;
+}
+
+.lembre-se-o-registro {
+    margin: 0;
+}
+
+.polcia-militar1 {
+    text-decoration: underline;
+}
+
+.polcia-militar {
+    color: inherit;
+}
+
+.lembreteregistro {
+    position: absolute;
+    height: 8.42%;
+    top: 82.75%;
+    left: calc(50% - 90.5px);
+    font-size: 10px;
+    color: #ff0000;
+    display: inline-block;
+    width: 181px;
+}
+
+.containerregistro {
+    position: absolute;
+    height: 66.51%;
+    width: 39.74%;
+    top: 11.66%;
+    right: 30.09%;
+    bottom: 21.83%;
+    left: 30.17%;
+    font-size: 24px;
+    color: #000;
+}
+
+.registroincidente {
+    width: 100%;
+    position: relative;
+    height: 1072px;
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+    font-family: Poppins;
+}

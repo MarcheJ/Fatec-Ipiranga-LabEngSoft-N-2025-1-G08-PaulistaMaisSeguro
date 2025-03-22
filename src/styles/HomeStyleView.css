@@ -1,0 +1,370 @@
+
+
+.tituloredessociais {
+    width: 227px;
+    position: relative;
+    font-size: 20px;
+    display: inline-block;
+    height: 25px;
+    flex-shrink: 0;
+}
+.logogithubjoao-icon {
+    width: 28.4px;
+    position: relative;
+    height: 23.1px;
+    object-fit: cover;
+}
+.perfiljoaogithub {
+    width: 95px;
+    position: relative;
+    display: inline-block;
+    height: 23px;
+    left: -5px;
+    flex-shrink: 0;
+}
+.framejoao {
+    width: 129.4px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 6px;
+}
+.perfillucasgithub {
+    width: 95px;
+    position: relative;
+    display: inline-block;
+    height: 23px;
+    flex-shrink: 0;
+}
+.framelucas {
+    width: 151px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 6px;
+}
+.perfilorientadorgithub {
+    width: 95px;
+    position: relative;
+    display: inline-block;
+    height: 20px;
+    flex-shrink: 0;
+    left: 10px;
+}
+.frameorientador {
+    width: 124px;
+    height: 32px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0px;
+}
+.logoinstagram-icon {
+    width: 31px;
+    position: relative;
+    height: 32px;
+    object-fit: cover;
+}
+.perfilinstagram {
+    flex: 1;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 32px;
+}
+.frameinstagram {
+    width: 156px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 6px;
+}
+.frameredessociais {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    top: -50px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-content: flex-end;
+    gap: 11px 6px;
+}
+.redessociais {
+    position: absolute;
+    width: 16.91%;
+    top: 95px;
+    right: 0%;
+    left: 83.09%;
+    height: 179.3px;
+    text-align: center;
+    font-size: 15px;
+}
+.titulosobreautores {
+    position: absolute;
+    top: 0px;
+    left: 60px;
+    font-size: 36px;
+    display: inline-block;
+    width: 485.4px;
+    height: 47px;
+}
+.decoracaotitulotextorodape {
+    position: absolute;
+    top: 58px;
+    left: 60px;
+    background-color: #5e5b5b;
+    width: 485.4px;
+    height: 4px;
+}
+.titulosobreautores1 {
+    position: absolute;
+    top: 65px;
+    left: 60px;
+    display: inline-block;
+    width: 485.4px;
+    height: 28px;
+}
+.textosobreautores {
+    position: absolute;
+    top: 100px;
+    left:60px;
+    font-size: 16px;
+    text-align: justify;
+    display: inline-block;
+    width: 485.4px;
+    height: 263px;
+}
+.sobreautores {
+    position: absolute;
+    top: 0px;
+    left: 520px;
+    width: 485.4px;
+    height: 363px;
+}
+.sobreprojeto1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 36px;
+    display: inline-block;
+    width: 481px;
+    height: 45px;
+}
+.decoracaotitulo {
+    position: absolute;
+    top: 57px;
+    left: 0.35px;
+    background-color: #5e5b5b;
+    width: 485.4px;
+    height: 4px;
+}
+.tituloprojeto {
+    position: absolute;
+    top: 67px;
+    left: 0.35px;
+    display: inline-block;
+    width: 485.4px;
+    height: 27px;
+}
+.descricaoprojeto {
+    position: absolute;
+    top: 100px;
+    left: 0.35px;
+    font-size: 16px;
+    text-align: justify;
+    display: inline-block;
+    width: 485.4px;
+    height: 243px;
+}
+.sobreprojeto {
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    width: 485.7px;
+    height: 343px;
+}
+.projetoautores {
+    position: absolute;
+    width: 94.43%;
+    top: 325px;
+    right: 2.71%;
+    left: 2.86%;
+    height: 363px;
+    text-align: left;
+}
+.fundocadastrobanner {
+    position: absolute;
+    height: 100%;
+    top: 0px;
+    bottom: 0px;
+    left: calc(50% - 56.95px);
+    border-radius: 15px;
+    background-color: #345ec8;
+    width: 113.9px;
+    border-radius: 15px;
+    border-color: transparent;
+}
+.ver-mapa {
+    position: absolute;
+    height: calc(100% - 8.9px);
+    top: 7.05px;
+    left: calc(50% - 54.67px);
+    display: inline-block;
+    width: 108.6px;
+}
+.botaovermapabanner {
+    position: absolute;
+    height: calc(100% - 207.1px);
+    top: 207.1px;
+    bottom: 0px;
+    left: calc(50% - 474.5px);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 113.9px;
+    color: #fff;
+    border-radius: 15px;
+}
+.brasaogovernosp-icon {
+    position: absolute;
+    height: calc(100% - 86.1px);
+    top: 0px;
+    bottom: 86.1px;
+    left: calc(50% - 510.5px);
+    max-height: 100%;
+    width: 185.4px;
+    object-fit: cover;
+}
+.textobanner {
+    position: absolute;
+    height: calc(100% - 198.1px);
+    top: 160px;
+    left: calc(50% - 597.5px);
+    font-size: 13px;
+    display: inline-block;
+    width: 359.4px;
+}
+.logofatecipi-icon {
+    position: absolute;
+    top: 42.37px;
+    left: 1035.97px;
+    width: 159px;
+    height: 72.1px;
+    object-fit: cover;
+}
+.logocps-icon {
+    position: absolute;
+    top: 133.26px;
+    left: 1050.09px;
+    width: 126.6px;
+    height: 84.8px;
+    object-fit: cover;
+}
+.sitepoliciacivil {
+    position: absolute;
+    height: calc(100% - 157px);
+    top: 128px;
+    left: calc(50% - 66.82px);
+    text-decoration: underline;
+    color: inherit;
+    display: inline-block;
+    width: 133.6px;
+}
+.telefonepoliciacivil {
+    position: absolute;
+    height: calc(100% - 157px);
+    top: 157px;
+    left: calc(50% - 108.25px);
+    display: inline-block;
+    width: 216.5px;
+}
+.logopoliciacivil-icon {
+    position: absolute;
+    height: calc(100% - 60px);
+    top: 0px;
+    bottom: 60px;
+    left: calc(50% - 88.57px);
+    max-height: 100%;
+    width: 178.1px;
+    object-fit: cover;
+}
+.policiacivil {
+    position: absolute;
+    height: calc(100% - 5px);
+    top: 0px;
+    bottom: 5px;
+    left: calc(50% - 237.45px);
+    width: 216.5px;
+}
+.logopoliciamilitar-icon {
+    position: absolute;
+    top: 0px;
+    left: 23.82px;
+    border-radius: 2px;
+    width: 168.8px;
+    height: 133px;
+    object-fit: cover;
+}
+.sitepoliciamilitar {
+    position: absolute;
+    top: 134px;
+    left: 0px;
+    text-decoration: underline;
+    color: inherit;
+    display: inline-block;
+    width: 216.5px;
+    height: 27px;
+}
+.telefonepoliciamilitar {
+    position: absolute;
+    top: 162px;
+    left: 0px;
+    display: inline-block;
+    width: 216.5px;
+    height: 27px;
+}
+.policiamilitar {
+    position: absolute;
+    top: 0px;
+    left: 258.42px;
+    width: 216.5px;
+    height: 189px;
+}
+.orgaossegurana {
+    position: absolute;
+    height: calc(100% - 48.1px);
+    top: 32px;
+    bottom: 16.1px;
+    left: calc(50% - 105.05px);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    width: 474.9px;
+    font-size: 18px;
+}
+.banner {
+    position: absolute;
+    height: calc(100% - 678.9px);
+    top: 70px;
+    bottom: 572.9px;
+    left: calc(50% - 598px);
+    width: 1195px;
+    font-size: 12px;
+}
+
+.home {
+    width: 100%;
+    position: relative;
+    height: 916px;
+    text-align: center;
+    font-size: 18px;
+    color: #000;
+    font-family: Poppins;
+}
+

@@ -1,0 +1,571 @@
+.fundo {
+    position: absolute;
+    height: 100%;
+    width: 133%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: -20%;
+    background-color: #f3eee6;
+    margin: 0 auto;
+
+}
+.fundocamposcadastro {
+    position: absolute;
+    height: 65.27%;
+    width: 37.39%;
+    top: 10.73%;
+    right: 31.31%;
+    bottom: 24%;
+    left: 31.31%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    background-color: #fff;
+}
+.campousuario {
+    position: absolute;
+    height: 60.79%;
+    width: 100%;
+    top: 39.19%;
+    right: 0%;
+    bottom: 0.02%;
+    left: 0%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    
+}
+.logousuario-icon {
+    position: absolute;
+    height: 47.95%;
+    width: 6.04%;
+    top: 44.83%;
+    right: 90%;
+    bottom: 7.22%;
+    left: 2.80%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: scale-down;
+}
+.titulonomeusuario {
+    position: absolute;
+    height: 25.39%;
+    width: 41.68%;
+    top: 0%;
+    left: 0.43%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.containernomeusuario {
+    position: absolute;
+    top: 30.07px;
+    left: 43.28px;
+    background-color: #fff;
+    width: 372px;
+    height: 39.2px;
+    cursor: pointer;
+}
+.nomeusuario {
+    position: absolute;
+    height: 20.93%;
+    width: 99.58%;
+    top: 0%;
+    right: 0.38%;
+    bottom: 79.07%;
+    left: 0.03%;
+}
+.campoemail {
+    position: absolute;
+    height: 60.7%;
+    width: 99.61%;
+    top: 39.35%;
+    right: 0.01%;
+    bottom: -0.05%;
+    left: 0.39%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+.logoemail-icon {
+    position: absolute;
+    height: 35.07%;
+    width: 6.02%;
+    top: 52.17%;
+    right: 90.03%;
+    bottom: 12.76%;
+    left: 2.80%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: scale-down;
+}
+.tituloemailusuario {
+    position: absolute;
+    height: 25.63%;
+    width: 26.87%;
+    top: 0%;
+    left: 3%;
+    display: flex;
+    align-items: center;
+}
+.containeremailusuario {
+    position: absolute;
+    top: 30.22px;
+    left: 44.95px;
+    background-color: #fff;
+    width: 369.5px;
+    height: 39.2px;
+    cursor: pointer;
+}
+.emailusuario {
+    position: absolute;
+    height: 20.96%;
+    width: 99.98%;
+    top: 25.23%;
+    right: -0.01%;
+    bottom: 53.81%;
+    left: 0.03%;
+    text-align: left;
+}
+.camposenha {
+    position: absolute;
+    height: 60.79%;
+    width: 99.58%;
+    top: 39.13%;
+    right: 0%;
+    bottom: 0.08%;
+    left: 0.41%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+.logosenha-icon {
+    position: absolute;
+    height: 41.04%;
+    width: 6.02%;
+    top: 51.27%;
+    right: 90.01%;
+    bottom: 7.68%;
+    left: 2.80%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: scale-down;
+}
+.titulosenhausuario {
+    position: absolute;
+    height: 25.39%;
+    width: 41.04%;
+    top: 0%;
+    left: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.containersenhausuario {
+    position: absolute;
+    top: 30.78px;
+    left: 45.08px;
+    background-color: #fff;
+    width: 331.3px;
+    height: 39.2px;
+    cursor: pointer;
+}
+.senhausuario {
+    position: absolute;
+    height: 20.93%;
+    width: 100%;
+    top: 51.96%;
+    right: 0%;
+    bottom: 27.1%;
+    left: 0%;
+}
+.campocidade {
+    position: absolute;
+    height: 65.6%;
+    width: 99.58%;
+    top: 34.4%;
+    right: 0%;
+    bottom: -0.01%;
+    left: 0.41%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+.cidadeicone {
+    position: absolute;
+    top: 27px;
+    left: 15.07px;
+    width: 32.1px;
+    height: 37px;
+    object-fit: scale-down;
+
+}
+.titulocidadeusuario {
+    position: absolute;
+    height: 27.4%;
+    width: 50.27%;
+    top: 0%;
+    left: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.containercidadeusuario {
+    position: absolute;
+    top: 24.89px;
+    left: 45.08px;
+    background-color: #fff;
+    width: 372px;
+    height: 39.2px;
+    cursor: pointer;
+}
+.cidadeusuario {
+    position: absolute;
+    height: 19.4%;
+    width: 100%;
+    top: 80.6%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.campospreenchimento {
+    position: absolute;
+    height: 37.47%;
+    width: 32.96%;
+    top: 16.92%;
+    right: 33.53%;
+    bottom: 45.61%;
+    left: 33.51%;
+}
+.fundobotaocadastrar {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 15px;
+    background-color: #5e5b5b;
+    cursor: pointer;
+
+}
+.textobotaocadastrar {
+    position: absolute;
+    top: calc(50% - 9.14px);
+    left: calc(50% - 53.21px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 106.5px;
+    height: 18.2px;
+    cursor: pointer;
+
+}
+.botaocadastrar {
+    position: absolute;
+    height: 3.89%;
+    width: 10.75%;
+    top: 56.94%;
+    right: 44.61%;
+    bottom: 39.17%;
+    left: 44.63%;
+    font-size: 15px;
+    color: #fff;
+    cursor: pointer;
+
+}
+.titulopagina {
+    position: absolute;
+    height: 3.54%;
+    width: 20.02%;
+    top: 11.5%;
+    left: 41.29%;
+    font-size: 36px;
+    color: #5e5b5b;
+    display: inline-block;
+}
+.textofazerlogin {
+    position: absolute;
+    height: 1.99%;
+    top: 61.5%;
+    left: calc(50% - 167px);
+    display: inline-block;
+    width: 334px;
+    cursor: pointer;
+}
+.containermicrosoft-icon {
+    position: absolute;
+    height: 95.58%;
+    width: 13.17%;
+    top: 0%;
+    right: 41.57%;
+    bottom: 4.42%;
+    left: 45.26%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    cursor: pointer;
+    object-fit: scale-down;
+}
+.containerapple-icon {
+    position: absolute;
+    height: 95.58%;
+    width: 13.17%;
+    top: 0%;
+    right: 0.01%;
+    bottom: 4.42%;
+    left: 86.82%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: scale-down;
+    cursor: pointer;
+}
+.containergoogle-icon {
+    position: absolute;
+    height: 90.91%;
+    width: 16.08%;
+    top: 8.95%;
+    right: 83.92%;
+    bottom: 0.14%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: scale-down;
+    cursor: pointer;
+}
+.containerbotoessociais {
+    position: absolute;
+    height: 4.5%;
+    width: 32.6%;
+    top: 70.3%;
+    right: 34.04%;
+    bottom: 25.2%;
+    left: 33.36%;
+}
+.linhacadastroesquerda {
+    position: absolute;
+    height: 5.49%;
+    width: 44.27%;
+    top: 49.25%;
+    right: 55.73%;
+    bottom: 45.26%;
+    left: 0%;
+    border-top: 1px solid #000;
+    box-sizing: border-box;
+}
+.linhacadastrodireita {
+    position: absolute;
+    height: 5.49%;
+    width: 44.27%;
+    top: 50.04%;
+    right: -0.21%;
+    bottom: 44.47%;
+    left: 55.94%;
+    border-top: 1px solid #000;
+    box-sizing: border-box;
+}
+.separacaocadastro {
+    position: absolute;
+    height: 100%;
+    width: 8.58%;
+    top: 0%;
+    left: 46%;
+    background: linear-gradient(#000, #000), linear-gradient(#000, #000), #000;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.separacaocadastrologin {
+    position: absolute;
+    height: 2.01%;
+    width: 34.88%;
+    top: 66.14%;
+    right: 32.56%;
+    bottom: 31.85%;
+    left: 32.56%;
+    font-size: 16px;
+}
+.containercadastro {
+    position: absolute;
+    height: 100%;
+    width: 80%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    margin: 0 auto;
+}
+.fundocabecalho {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #f2f0ef;
+}
+.acessar {
+    position: absolute;
+    height: 70.33%;
+    width: 95.36%;
+    top: 23.51%;
+    left: 2%;
+    display: inline-block;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.botaoacessar {
+    position: absolute;
+    height: 37.04%;
+    width: 8.36%;
+    top: 30.86%;
+    right: 4.88%;
+    bottom: 32.1%;
+    left: 86.76%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 12px;
+    color: #fff;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+.home {
+    position: absolute;
+    height: 33.33%;
+    width: 5.01%;
+    top: 34.57%;
+    left: 5.93%;
+    display: inline-block;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.mapa-oficial-ssp {
+    position: absolute;
+    height: 33.33%;
+    width: 10.64%;
+    top: 35.8%;
+    left: 24.01%;
+    display: inline-block;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.botaoquemsomos {
+    position: absolute;
+    height: 33.33%;
+    width: 12.84%;
+    top: 34.57%;
+    left: 62.22%;
+    display: inline-block;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+.logocabecalho-icon {
+    position: absolute;
+    top: calc(50% - 38.5px);
+    left: calc(50% - 35.15px);
+    width: 70px;
+    height: 78px;
+    object-fit: cover;
+    cursor: pointer;
+}
+.cabecalho {
+    position: absolute;
+    height: 8.96%;
+    width: 100.8%;
+    top: -1%;
+    right: -0.02%;
+    bottom: 91.04%;
+    left: -0.5%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 15px;
+    color: #1e1e1e;
+}
+.retangulorodape {
+    position: absolute;
+    top: 0px;
+    left: -10px;
+    background-color: #515457;
+    width: 145.41%;
+    height: 180px;
+}
+.ajuda {
+    position: absolute;
+    height: 13.89%;
+    width: 4.79%;
+    top: 18.33%;
+    left: 2.51%;
+    display: inline-block;
+}
+.configuracoesprivacidade {
+    position: absolute;
+    height: 15%;
+    width: 21.88%;
+    top: 55%;
+    left: 2.51%;
+    display: inline-block;
+}
+.politicacookies {
+    position: absolute;
+    height: 15%;
+    width: 13.75%;
+    top: 36.11%;
+    left: 2.13%;
+    display: inline-block;
+}
+.politicaprivacidade {
+    position: absolute;
+    height: 15%;
+    width: 16.26%;
+    top: 55%;
+    left: 29.56%;
+    display: inline-block;
+}
+.politicaprivacidade1 {
+    position: absolute;
+    height: 13.89%;
+    width: 16.26%;
+    top: 18.33%;
+    left: 27.81%;
+    display: inline-block;
+}
+.politicaprivacidade2 {
+    position: absolute;
+    height: 13.89%;
+    width: 13.83%;
+    top: 36.11%;
+    left: 29.26%;
+    display: inline-block;
+}
+.rodapepagina {
+    position: absolute;
+    top: 85%;
+    left: 0px;
+    width: 1316px;
+    height: 180px;
+    font-size: 18px;
+    color: #fff;
+}
+.telalogin {
+    width: 100%;
+    position: relative;
+    height: 904px;
+    text-align: center;
+    font-size: 20px;
+    color: #000;
+    font-family: Poppins;
+}
+
