@@ -11,7 +11,7 @@ const MapaComunidade = () => {
         center={centroBairro}
         zoom={15}
       >
-        {/* Mapa sem coordenadas */}
+        {}
       </GoogleMap>
     </LoadScript>
   );
