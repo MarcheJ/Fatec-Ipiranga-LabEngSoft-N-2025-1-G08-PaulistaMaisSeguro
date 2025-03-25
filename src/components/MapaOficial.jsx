@@ -43,7 +43,7 @@ const MapaOficial = () => {
   ];
 
   return (
-    <LoadScript googleMapsApiKey="AIzaSyBcCFmiLzgkxVa1n-8tFh5VuUGBt8aU25A">
+    <LoadScript googleMapsApiKey="Nao-tem-API-UwU">
       <GoogleMap
         mapContainerStyle={{ width: '100%', height: '89.5vh' }}
         center={centroBairro}
