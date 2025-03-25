@@ -5,7 +5,7 @@ const MapaComunidade = () => {
   const centroBairro = { lat: -23.563875, lng: -46.611894 };
 
   return (
-    <LoadScript googleMapsApiKey="APIAQUI">
+    <LoadScript googleMapsApiKey="Nao-tem-API-Uwu">
       <GoogleMap
         mapContainerStyle={{ width: '100%', height: '89.5vh' }}
         center={centroBairro}
