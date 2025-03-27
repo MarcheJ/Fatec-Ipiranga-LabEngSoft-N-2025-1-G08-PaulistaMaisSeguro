@@ -15,4 +15,3 @@ updates:
       prefix: "chore(deps)"
       include: "scope"
     rebase-strategy: "auto"
-    security-updates: true
