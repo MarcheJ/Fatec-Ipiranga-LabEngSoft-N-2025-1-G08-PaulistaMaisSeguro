@@ -19,6 +19,7 @@
     height: 23px;
     left: -5px;
     flex-shrink: 0;
+    color: #000
 }
 .framejoao {
     width: 129.4px;
@@ -34,6 +35,7 @@
     display: inline-block;
     height: 23px;
     flex-shrink: 0;
+    color: #000
 }
 .framelucas {
     width: 151px;
@@ -50,6 +52,7 @@
     height: 20px;
     flex-shrink: 0;
     left: 10px;
+    color: #000
 }
 .frameorientador {
     width: 124px;
@@ -73,6 +76,7 @@
     align-items: center;
     justify-content: center;
     height: 32px;
+    color: #000
 }
 .frameinstagram {
     width: 156px;
@@ -115,6 +119,7 @@
     display: inline-block;
     width: 485.4px;
     height: 47px;
+    color: #000
 }
 .decoracaotitulotextorodape {
     position: absolute;
@@ -148,6 +153,7 @@
     left: 520px;
     width: 485.4px;
     height: 363px;
+    color: #000
 }
 .sobreprojeto1 {
     position: absolute;
@@ -156,7 +162,9 @@
     font-size: 36px;
     display: inline-block;
     width: 481px;
+    
     height: 45px;
+    color: #000
 }
 .decoracaotitulo {
     position: absolute;
@@ -190,6 +198,7 @@
     left: 0px;
     width: 485.7px;
     height: 343px;
+    color: #000
 }
 .projetoautores {
     position: absolute;
@@ -222,7 +231,7 @@
 }
 .botaovermapabanner {
     position: absolute;
-    height: calc(100% - 207.1px);
+    height: 5%;
     top: 207.1px;
     bottom: 0px;
     left: calc(50% - 474.5px);
@@ -234,12 +243,11 @@
 .brasaogovernosp-icon {
     position: absolute;
     height: calc(100% - 86.1px);
-    top: 0px;
-    bottom: 86.1px;
+    top: 10px;
     left: calc(50% - 510.5px);
-    max-height: 100%;
+    max-height: 20%;
     width: 185.4px;
-    object-fit: cover;
+    object-fit: scale-down;
 }
 .textobanner {
     position: absolute;
@@ -249,6 +257,7 @@
     font-size: 13px;
     display: inline-block;
     width: 359.4px;
+    color: #000
 }
 .logofatecipi-icon {
     position: absolute;
@@ -275,6 +284,7 @@
     color: inherit;
     display: inline-block;
     width: 133.6px;
+    color: #000
 }
 .telefonepoliciacivil {
     position: absolute;
@@ -283,16 +293,16 @@
     left: calc(50% - 108.25px);
     display: inline-block;
     width: 216.5px;
+    color: #000;
 }
 .logopoliciacivil-icon {
     position: absolute;
     height: calc(100% - 60px);
     top: 0px;
-    bottom: 60px;
     left: calc(50% - 88.57px);
-    max-height: 100%;
+    max-height: 20%;
     width: 178.1px;
-    object-fit: cover;
+    object-fit: scale-down;
 }
 .policiacivil {
     position: absolute;
@@ -309,7 +319,7 @@
     border-radius: 2px;
     width: 168.8px;
     height: 133px;
-    object-fit: cover;
+    object-fit: scale-down;
 }
 .sitepoliciamilitar {
     position: absolute;
@@ -328,6 +338,7 @@
     display: inline-block;
     width: 216.5px;
     height: 27px;
+    color: #000;
 }
 .policiamilitar {
     position: absolute;
@@ -335,6 +346,7 @@
     left: 258.42px;
     width: 216.5px;
     height: 189px;
+    color: #000
 }
 .orgaossegurana {
     position: absolute;

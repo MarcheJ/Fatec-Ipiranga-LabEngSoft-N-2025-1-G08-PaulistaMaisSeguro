@@ -1,17 +1,14 @@
 import React from "react";
-import Header from "./components/Header";
-import Footer from "./components/Footer";
-import bannerImg from "./Assets/img/FundoCidadeSP.jfif";
-import brasaoSP from "./Assets/img/BrasaoGovernoSP.png";
-import logoGitHubJoao from "./Assets/img/LogoGitHubJoao.png";
-import logoGitHubLucas from "./Assets/img/LogoGitHubLucas.png";
-import logoGitHubOrientador from "./Assets/img/LogoGitHubOrientador.png";
-import logoInstagram from "./Assets/img/LogoInstagram.png";
-import logoFatecIpi from "./Assets/img/LogoFatecIpi.png";
-import logoCPS from "./Assets/img/LogoCPS.png";
-import logoPoliciaCivil from "./Assets/img/LogoPoliciaCivil.png";
-import logoPoliciaMilitar from "./Assets/img/LogoPoliciaMilitar.png";
-import "./Styles/HomeStyleView.css";
+import brasaoSP from "./assets/img/BrasaoGovernoSP.png";
+import logoGitHubJoao from "./assets/img/LogoGitHubJoao.png";
+import logoGitHubLucas from "./assets/img/LogoGitHubLucas.png";
+import logoGitHubOrientador from "./assets/img/LogoGitHubOrientador.png";
+import logoInstagram from "./assets/img/LogoInstagram.png";
+import logoFatecIpi from "./assets/img/LogoFatecIpi.png";
+import logoCPS from "./assets/img/LogoCPS.png";
+import logoPoliciaCivil from "./assets/img/LogoPoliciaCivil.png";
+import logoPoliciaMilitar from "./assets/img/LogoPoliciaMilitar.png";
+import  "./Home.css";
 
 const Home = () => {
   return (

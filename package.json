@@ -5,7 +5,8 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "vite",
+    "start": "vite --host",
+    "dev": "vite",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
